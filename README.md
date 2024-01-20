@@ -5,8 +5,10 @@ This repository contains a simple weather application developed in Java, providi
 
 ## Project Images
 
-![1](https://github.com/sinethjanidu2003/Weather-App-Java/assets/63631182/417a15ce-fc5b-418b-8be1-0359311ebf68)
-![2](https://github.com/sinethjanidu2003/Weather-App-Java/assets/63631182/78bd34c7-b9ef-4692-af36-092367966674)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/sinethjanidu2003/Weather-App-Java/assets/63631182/417a15ce-fc5b-418b-8be1-0359311ebf68" alt="Image 1" width="400"/>
+  <img src="https://github.com/sinethjanidu2003/Weather-App-Java/assets/63631182/78bd34c7-b9ef-4692-af36-092367966674" alt="Image 2" width="400"/>
+</div>
 
 ## Features
 - **Location-Based Weather
