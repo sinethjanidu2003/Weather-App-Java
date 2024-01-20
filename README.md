@@ -22,12 +22,13 @@ This repository contains a simple weather application developed in Java, providi
 
 ## How to Run
 1. Clone the repository to your local machine.
-2. Compile the Java source files.
-3. Run the application.
+2. Change the Google Maps API Key and the Weather API Key
+3. Compile the Java source files.
+4. Run the application.
 
 ## Usage
 1. Launch the application.
 2. Enter the name of a city or coordinates when prompted.
 3. View the real-time weather information displayed on the screen.
 
-### ** This is developed to enhance the java skills, and may contain errors.
+### ** This is developed to enhance the java skills and may contain errors.
