@@ -223,7 +223,7 @@ public class Main {
             double longitude =  weatherData.getLocation().getLon();
             String markerUrl = "markers=" + URLEncoder.encode("color:red|label:L|" + latitude + "," + longitude, "UTF-8");
             String mapUrl = "https://maps.googleapis.com/maps/api/staticmap?center=" + latitude + "," + longitude +
-                    "&zoom=12&size=700x400&" + markerUrl + "&key=AIzaSyAt0TMeBhM4VnmnUrez0vMs7iLffBWDFfw";
+                    "&zoom=12&size=700x400&" + markerUrl + "&key=API_KEY";
             String htmlContent = "<html><body><img src='" + mapUrl + "'></body></html>";
             // Load HTML content into the editorPane
             editorPane.setContentType("text/html");
